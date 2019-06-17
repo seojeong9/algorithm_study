@@ -24,7 +24,6 @@ int main() {
 				while (arr[j][fy+1]) fy++; 
             }
 		}
-
 		cout << "#" << t << " " << fy << endl;
 	}
 }
